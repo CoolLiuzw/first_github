@@ -17,3 +17,6 @@
 2. 代码只想个人查看，私有化，推荐使用 [码云](https://gitee.com/),个人使用或者实验室团队使用完全够用了，没必要自己部署环境。
 3. 公司使用 安全性要求特别高， 可内网实现部署环境。
 
+### 具体学习资料
+1. [小白入门~ GitHub和Git超详细使用教程](https://blog.csdn.net/buknow/article/details/80325986)
+2. 查阅TortoiseGit相关使用教程，一般不会去一步一步敲命令，使用UI比较方便。推荐使用TortoiseGit
